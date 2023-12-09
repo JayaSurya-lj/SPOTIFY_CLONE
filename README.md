@@ -1,7 +1,7 @@
 # SPOTIFY CLONE 
 
 <h3>Description</h3>
-<p>TA simple Spotify clone project created using HTML and CSS.</p>
+<p>A simple Spotify clone project created using HTML and CSS.</p>
 <br>
 
 <h2>Demo</h2>
